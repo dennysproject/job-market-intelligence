@@ -1,6 +1,6 @@
 # Job Market Intelligence: Tech Salary Trends 📊
 
-![Dashboard Preview](job_salary_dashboard_page-0001.jpg)
+![Dashboard Preview](job-market-salary.gif)
 
 ## 📌 Project Overview
 The tech job market is often opaque, making it difficult for professionals and recruiters to benchmark compensation across different industries and specialized roles. This project provides a data-driven solution: an interactive executive dashboard that analyzes a large-scale dataset of over 250,000 tech jobs. 
